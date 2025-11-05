@@ -57,18 +57,15 @@ python src/total_runs_by_each_team.py
 
 Output charts are saved in the plots/ folder.
 
-# Project Structure
-
 IPL-Data-Analytics/
 │
-├── data/                 # CSV files (matches, deliveries, umpire data)
-├── plots/                # Output charts
-├── src/                  # Python scripts for analysis
-├── venv/                 # Virtual environment
+├── data/ # CSV files (matches, deliveries, umpire data)
+├── plots/ # Output charts
+├── src/ # Python scripts for analysis
+├── venv/ # Virtual environment
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-
 
 # Notes
 
@@ -81,4 +78,5 @@ Charts will automatically be saved in plots/.
 Use pylint or flake8 to check code quality:
 
 pylint src/*.py
+
 
