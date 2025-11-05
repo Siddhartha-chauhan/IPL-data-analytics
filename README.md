@@ -69,6 +69,7 @@ IPL-Data-Analytics/
 ├── README.md
 └── requirements.txt
 
+
 # Notes
 
 Make sure CSV files are present in the data/ folder.
@@ -80,3 +81,4 @@ Charts will automatically be saved in plots/.
 Use pylint or flake8 to check code quality:
 
 pylint src/*.py
+
