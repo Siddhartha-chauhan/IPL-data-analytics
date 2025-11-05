@@ -57,15 +57,6 @@ python src/total_runs_by_each_team.py
 
 Output charts are saved in the plots/ folder.
 
-IPL-Data-Analytics/
-│
-├── data/ # CSV files (matches, deliveries, umpire data)
-├── plots/ # Output charts
-├── src/ # Python scripts for analysis
-├── venv/ # Virtual environment
-├── .gitignore
-├── README.md
-└── requirements.txt
 
 # Notes
 
